@@ -1,0 +1,11 @@
+{
+  "name": "p-frontend-cimsa-deploy",
+  "version": "1.0.0",
+  "description": "Repo to deploy CIMSA frontend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Vidal",
+  "license": "MIT"
+}
